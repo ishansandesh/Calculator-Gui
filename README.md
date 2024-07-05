@@ -17,8 +17,8 @@ This is a simple calculator application built using Python and Tkinter. The calc
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/calculator-gui.git
-    cd calculator-gui
+    https://github.com/ishansandesh/Calculator-Gui.git
+    cd Calculator_Gui
     ```
 
 2. (Optional) Create a virtual environment and activate it:
