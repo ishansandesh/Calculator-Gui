@@ -1,3 +1,6 @@
+![calculator](img.png)
+
+
 # Calculator GUI
 
 This is a simple calculator application built using Python and Tkinter. The calculator supports basic arithmetic operations such as addition, subtraction, multiplication, and division.
